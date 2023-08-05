@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Veterinaria_movil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- LOGIN  -->
+    <string name="logLblMensajeBienvenida">!GRACIAS POR VISITARNOS! </string>
+    <string name="logLblIngresarDni"> Ingresa tu DNI</string>
+    <string name="logTxtDni"> DNI</string>
+    <string name="logLblIngresarContraseña"> Ingresa tu contraseña</string>
+    <string name="logTxtContraseña">Contraseña</string>
+    <string name="logBtnIngresar"> INGRESAR</string>
+    <string name="logBtnRegistrar"> REGISTRARME</string>
+    <string name="logLblEresNuevo">¿Eres nuevo? Registrate gratis!</string>
+
+
+    <!-- Registrarse  -->
+    <string name="logLblBienvenidaRegistro">TE DAMOS LA BIENVENIDA</string>
+    <string name="logLblTextoIntroductorio">Completa todos los datos y mira todo lo que te ofrecemos </string>
+    <string name="logLblRegistroIngresarNombre">Ingresa tu Nombre Completo</string>
+    <string name="logTxtRegistroNombre">Nombre completo</string>
+    <string name="logLblRegistroIngresarDNI">Ingresa tu DNI</string>
+    <string name="logTxtRegistroDni">DNI</string>
+    <string name="logLblIngresarCelular">Ingresa tu Celular</string>
+    <string name="logTxtCelular">Celular</string>
+    <string name="logLblIngresarCorreo">Ingresa tu Correo Electronico</string>
+    <string name="logTxtCorreo">Correo Electronico</string>
+    <string name="logLblRegistroIngresarContraseña">Ingresa una contraseña</string>
+    <string name="logTxtRegistroNuevaContraseña">Contraseña</string>
+    <string name="logBtnRegistrarNuevo">REGISTRAR</string>
+
+
+</resources>
